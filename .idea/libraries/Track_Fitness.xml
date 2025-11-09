@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Track_Fitness">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Track_Fitness.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
